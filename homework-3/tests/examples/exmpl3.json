@@ -1,0 +1,8 @@
+{
+  "app_name": "TestApp",
+  "version": 1.2,
+  "features": ["login", "signup", "profile"],
+  "nested_config": {
+    "key": "value"
+  }
+}

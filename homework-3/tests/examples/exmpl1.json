@@ -1,0 +1,5 @@
+{
+  "server_name": "MyServer",
+  "port": 8080,
+  "directories": ["home", "var", "etc"]
+}

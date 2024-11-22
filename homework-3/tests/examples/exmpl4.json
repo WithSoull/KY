@@ -1,0 +1,9 @@
+{
+  "site_name": "MySite",
+  "settings": {
+    "theme": "dark",
+    "language": "en"
+  },
+  "config_ref": "{settings}"
+}
+
